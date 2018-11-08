@@ -1,0 +1,16 @@
+.Door {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: whitesmoke;
+  color: whitesmoke;
+  border: 50px solid darkred;
+  border-top: none;
+  border-bottom: none;
+  transition: border-width 1s ease;
+}
+
+.open {
+  border-width: 0;
+  color: darkred;
+}

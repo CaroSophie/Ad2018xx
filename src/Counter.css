@@ -1,0 +1,7 @@
+.Counter {
+  grid-column: span 4;
+  color: darkred;
+  text-transform: uppercase;
+  border: 2px solid whitesmoke;
+  box-shadow: 5px 5px 5px darkred;
+}

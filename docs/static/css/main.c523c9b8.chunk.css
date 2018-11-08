@@ -1,0 +1,2 @@
+body{margin:0}.App{display:grid;grid-gap:10px;grid-template-columns:repeat(4,100px);grid-auto-rows:100px;background:#006400;padding:20px}.Door{display:flex;align-items:center;justify-content:center;background:#f5f5f5;color:#f5f5f5;border:50px solid #8b0000;border-top:none;border-bottom:none;-webkit-transition:border-width 1s ease;transition:border-width 1s ease}.open{border-width:0;color:#8b0000}.Counter{grid-column:span 4;color:#8b0000;text-transform:uppercase;border:2px solid #f5f5f5;box-shadow:5px 5px 5px #8b0000}
+/*# sourceMappingURL=main.c523c9b8.chunk.css.map */
